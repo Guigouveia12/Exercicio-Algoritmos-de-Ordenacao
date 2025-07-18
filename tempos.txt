@@ -1,0 +1,59 @@
+num.1000.1:
+Tempo de execução Selection Sort: 0.027924 segundos
+Tempo de execução Insertion Sort: 0.033916 segundos
+
+num.1000.2:
+Selection Sort foi mais rápido.
+Tempo de execução Selection Sort: 0.025935 segundos
+Tempo de execução Insertion Sort: 0.024935 segundos
+Insertion Sort foi mais rápido.
+
+num.1000.3:
+Tempo de execução Selection Sort: 0.034909 segundos
+Tempo de execução Insertion Sort: 0.038893 segundos
+Selection Sort foi mais rápido.
+
+num.1000.4:
+Tempo de execução Selection Sort: 0.031974 segundos
+Tempo de execução Insertion Sort: 0.040943 segundos
+Selection Sort foi mais rápido.
+
+num.10000.1:
+Tempo de execução Selection Sort: 2.805493 segundos
+Tempo de execução Insertion Sort: 3.739993 segundos
+Selection Sort foi mais rápido.
+
+num.10000.2:
+Tempo de execução Selection Sort: 2.970969 segundos
+Tempo de execução Insertion Sort: 3.793848 segundos
+Selection Sort foi mais rápido.
+
+num.10000.3:
+Tempo de execução Selection Sort: 2.819452 segundos
+Tempo de execução Insertion Sort: 3.826758 segundos
+Selection Sort foi mais rápido.
+
+num.10000.4:
+Tempo de execução Selection Sort: 3.943551 segundos
+Tempo de execução Insertion Sort: 4.355345 segundos
+Selection Sort foi mais rápido.
+
+num.100000.1:
+Tempo de execução Selection Sort: 291.707786 segundos
+Tempo de execução Insertion Sort: 405.489772 segundos
+Selection Sort foi mais rápido.
+
+num.100000.2:
+Tempo de execução Selection Sort: 297.788419 segundos
+Tempo de execução Insertion Sort: 394.388845 segundos
+Selection Sort foi mais rápido.
+
+num.100000.3:
+Tempo de execução Selection Sort: 289.881701 segundos
+Tempo de execução Insertion Sort: 397.553517 segundos
+Selection Sort foi mais rápido.
+
+num.100000.4:
+Tempo de execução Selection Sort: 341.746443 segundos
+Tempo de execução Insertion Sort: 421.766350 segundos
+Selection Sort foi mais rápido.
