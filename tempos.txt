@@ -1,9 +1,9 @@
 num.1000.1:
 Tempo de execução Selection Sort: 0.027924 segundos
 Tempo de execução Insertion Sort: 0.033916 segundos
+Selection Sort foi mais rápido.
 
 num.1000.2:
-Selection Sort foi mais rápido.
 Tempo de execução Selection Sort: 0.025935 segundos
 Tempo de execução Insertion Sort: 0.024935 segundos
 Insertion Sort foi mais rápido.
